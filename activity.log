@@ -24,3 +24,4 @@
 2025-06-29T06:31:54 | touched: .env.example
 2025-07-19T06:21:57 | touched: scripts/frontend-integration.js
 2025-12-25T21:07:19 | touched: scripts/cli.js
+2025-06-01T18:06:19 | touched: scripts/deploy.js
